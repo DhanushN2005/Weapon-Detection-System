@@ -92,19 +92,4 @@ It should not be solely relied upon for real-world security decisions without pr
 - 🧠 Improved model accuracy with custom datasets
 - 📱 Mobile & edge deployment (Jetson / Raspberry Pi)
 
-### 👤 Author
-Gowtham S
 
-AI & Computer Vision Enthusiast
-
-GitHub: https://github.com/gowthamx25
-
-### ⭐ Support
-
-If you find this project useful:
-
-⭐ Star the repository
-
-🍴 Fork it
-
-🧠 Contribute improvements
