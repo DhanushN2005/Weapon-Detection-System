@@ -56,7 +56,7 @@ Weapon-Detection-System/
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
-git clone https://github.com/gowthamx25/Weapon-Detection-System.git
+git clone https://github.com/DhanushN2005/Weapon-Detection-System.git
 
 cd Weapon-Detection-System
 
